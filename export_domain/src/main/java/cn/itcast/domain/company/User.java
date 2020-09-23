@@ -9,5 +9,6 @@ public class User {
     public static void main(String[] args) {
         System.out.println("IDEA上进行git服务器第一次修改");
         System.out.println("IDEA上--客户端进行第一次修改");
+        System.out.println("使用分支修改");
     }
 }
